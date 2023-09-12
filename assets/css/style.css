@@ -1,0 +1,15 @@
+/* dashboard-icon */
+.dashboard-icon {
+    font-size: 3.5em;
+}
+
+.dashboard-photo{
+    width:3.5em;
+    height: 3.5em;
+
+}
+
+/* edit-icon  -- edit-user.php */
+.edit-icon {
+    font-size: 7em;
+}
